@@ -1,9 +1,9 @@
 # django-helloworld
 
-### Pre-requisites
+# Pre-requisites
 
 
-### Local Setup
+# Local Setup
 1. 
 
 1. 
