@@ -1,7 +1,5 @@
 # django-helloworld
-An example Django [Hello World!](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) application.
-
-
+An example Django ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) application.
 
 ## Screenshots
 
@@ -16,17 +14,15 @@ pipenv shell
 ```
 2. Install dependencies
 ```
-python manage.py createsuperuser --username admin
+pipenv install
 ```
-
-3. Create admin user
-```
-python manage.py createsuperuser --username admin
-```
-
-4. Run database migrations
+3. Run database migrations
 ```
 python3 manage.py migrate
+```
+4. Create admin user
+```
+python manage.py createsuperuser --username admin
 ```
 
 ## Run application

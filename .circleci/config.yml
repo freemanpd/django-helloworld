@@ -49,6 +49,8 @@ jobs:
           command: |
             . venv/bin/activate
             python manage.py test
+            pipenv check
+            flake8 .
 
       - store_artifacts:
           path: test-reports
