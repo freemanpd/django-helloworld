@@ -1,15 +1,22 @@
 # django-helloworld
-An example Django '`Hello World <https://en.wikipedia.org/wiki/%22Hello,_World!%22_program>`_' Hello World application.
+An example Django [Hello World!](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) application.
+
+
 
 ## Screenshots
 
 ## Requirements
-Python 3.4+
+1. Python 3.4+
+1. Pipenv 
 
 ## Installation
 1. Start Python virtual ENV
 ```
 pipenv shell
+```
+2. Install dependencies
+```
+python manage.py createsuperuser --username admin
 ```
 
 2. Create admin user
