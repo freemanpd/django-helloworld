@@ -3,7 +3,7 @@ An example Django ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World
 
 ## Screenshots
 
-![An example Django "Hello World!" application](https://github.com/freemanpd/django-helloworld/blob/master/docs/hello-world.png?s=200)
+![An example Django "Hello World!" application](https://github.com/freemanpd/django-helloworld/blob/master/docs/hello-world.png?v=4&s=200)
 
 ## Requirements
 1. Python 3.4+
@@ -33,7 +33,7 @@ python manage.py runserver
 ```
 Once the server is running, visit http://127.0.0.1:8000 in your web browser. Now, you should see something like the following:
 
-![An example Django "Hello World!" application](https://github.com/freemanpd/django-helloworld/blob/master/docs/hello-world.png?s=200)
+![An example Django "Hello World!" application](https://github.com/freemanpd/django-helloworld/blob/master/docs/hello-world.png?v=4&s=200)
 
 **Note:** access the Django admin interface here: http://127.0.0.1:8000/admin. Example:
 
