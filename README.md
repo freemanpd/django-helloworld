@@ -8,15 +8,18 @@ Python 3.4+
 
 ## Installation
 1. Start Python virtual ENV
-```pipenv shell
+```
+pipenv shell
 ```
 
-1. Create admin user
-```python manage.py createsuperuser --username admin
+2. Create admin user
+```
+python manage.py createsuperuser --username admin
 ```
 
-1. Run database migrations
-```python3 manage.py migrate
+3. Run database migrations
+```
+python3 manage.py migrate
 ```
 
 ## Run application
