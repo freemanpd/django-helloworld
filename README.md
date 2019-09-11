@@ -5,12 +5,6 @@ An example Django ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World
 
 ![An example Django "Hello World!" application](https://github.com/freemanpd/django-helloworld/blob/master/docs/hello-world.png)
 
-.. figure:: https://github.com/freemanpd/django-helloworld/blob/master/docs/hello-world.png
-   :width: 215px
-   :align: center
-   :alt: An example Django "Hello World!" application
-
-
 ## Requirements
 1. Python 3.4+
 1. Pipenv 
