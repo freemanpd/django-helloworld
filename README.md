@@ -22,7 +22,7 @@ pipenv install
 ```
 3. Run database migrations
 ```
-python3 manage.py migrate
+python manage.py makemigrations; python manage.py migrate
 ```
 4. Create admin user
 ```
