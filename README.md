@@ -1,6 +1,8 @@
 # django-helloworld
 An example Django ["Hello World!"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) application.
 
+[![CircleCI](https://circleci.com/gh/freemanpd/django-helloworld.svg?style=svg)](https://circleci.com/gh/freemanpd/django-helloworld)
+
 ## Screenshots
 
 ![An example Django "Hello World!" application](https://github.com/freemanpd/django-helloworld/blob/master/docs/hello-world.png)
