@@ -44,3 +44,5 @@ Once the server is running, visit http://127.0.0.1:8000 in your web browser. Now
 ## Resources
 * Properly installing Python - https://docs.python-guide.org/starting/installation/
 * Installing pipenv - https://docs.python-guide.org/dev/virtualenvs/#installing-pipenv
+* Python programming language - https://www.python.org/
+* Django - https://www.djangoproject.com/
